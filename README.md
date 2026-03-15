@@ -138,7 +138,7 @@ CUDA_VISIBLE_DEVICES=0 python3 main_conv3dformer.py \
   - 3D Convolution layers for spatial-spectral feature extraction
   - Global Spectral Attention (GSA) modules
   - 3D Channel Attention Blocks (CABlock_3D)
-  - Multi-scale feature processing
+
 
 ## Loss Functions
 
