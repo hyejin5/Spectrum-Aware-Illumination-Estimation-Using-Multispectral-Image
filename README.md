@@ -3,6 +3,11 @@
 3D Convolutional Transformer for hyperspectral illumination estimation.
 Estimates 36-channel illumination spectra from 15-channel hyperspectral images.
 
+## Dataset
+
+**MILD (Multispectral Image dataset with Lighting Diversity)**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19026487.svg)](https://doi.org/10.5281/zenodo.19026487)
+
 ## Project Structure
 
 ```
