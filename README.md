@@ -1,7 +1,7 @@
-# Conv3DFormer for Color Constancy
+# Spectrum Aware Illumination Estimation Using Multispectral Image
 
-3D Convolutional Transformer for hyperspectral illumination estimation.
-Estimates 36-channel illumination spectra from 15-channel hyperspectral images.
+This is repository for our paper "Spectrum Aware Illumination Estimation Using Multispectral Image".
+The work is to estimate 36-channel illumination spectra from 15-channel hyperspectral images.
 
 ## Dataset
 
