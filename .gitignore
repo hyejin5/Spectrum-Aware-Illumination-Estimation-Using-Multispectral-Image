@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch checkpoints (keep best models via LFS)
+*.pth
+*.pt
+!save_dir/best_model/best_Model_lr_0.005000_Batch_50_MILD.pt
+!save_dir/best_model/best_Model_lr_0.005000_Batch_50_BeyondRGB.pt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and TensorBoard
+*.log
+runs/
+
+# Training outputs
+save_dir/check_dir/
+save_dir/test_output/
+save_dir/args_*.txt
+save_dir/EMPTY.log
+training_illum/
+training_rgb/
+test_illum/
+test_rgb/
+
+# Results
+*.xlsx
+*.zip
+
+# Data files (large)
+*.hdf5
+*.h5
+
+# Mat / npy — keep only essential model files
+*.mat
+!model_utils/*.mat
+!CMF_31.mat
+*.npy
+!model_utils/optimized_filters_responses_IRC.npy
+
+# Dataset directories
+dataset/
+
+# Legacy dataloader (replaced by v2)
+dataloader/load_dataset.py
+dataloader/dataset.py
+dataloader/dataloader.py
+
+# Duplicate / copy files
+*\ copy.*
+
+# OS
+.DS_Store
+Thumbs.db
