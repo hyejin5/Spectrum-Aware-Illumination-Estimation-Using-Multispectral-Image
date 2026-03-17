@@ -6,7 +6,7 @@ The work is to estimate 36-channel illumination spectra from 15-channel hyperspe
 ## Dataset
 
 **MILD (Multispectral Image dataset with Lighting Diversity)**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19026487.svg)](https://doi.org/10.5281/zenodo.19026487)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19026276.svg)](https://doi.org/10.5281/zenodo.19026276)
 
 ## Project Structure
 
